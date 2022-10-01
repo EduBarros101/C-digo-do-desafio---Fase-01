@@ -4,4 +4,4 @@ O desafio consistia em receber um projeto alterado e entregá-lo ajustado de aco
 
 Acrescentei "display: flex" em algumas situações que entendi utíl.
 
-Link para o projeto no ar: https://edubarros101.github.io/Desafio-Iniciante-Explorer-Rocketseat/
+Link para o projeto no ar: https://edubarros101.github.io/Desafio-Fase-01/
